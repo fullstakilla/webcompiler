@@ -42,7 +42,13 @@ Full-stack Real-time Code Compiler with AI and LeetCode Tasks. Built on MIREA sp
 
 ---
 
-### To view it locally
+### To view it locally - client
+
+Enter client folder:
+
+```bash
+cd client
+```
 
 Make sure to install the dependencies:
 
